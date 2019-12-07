@@ -1,0 +1,26 @@
+{
+  "name": "kms.backend-DEMO",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "NODE_PATH=src nodemon ./src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "axios-retry": "^3.1.2",
+    "body-parser": "^1.19.0",
+    "charset": "^1.0.1",
+    "cheerio": "^1.0.0-rc.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "iconv-lite": "^0.5.0",
+    "mysql": "^2.17.1",
+    "nodemon": "^1.19.2",
+    "request": "^2.88.0"
+  }
+}
