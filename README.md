@@ -18,3 +18,5 @@ node 10 버전 이상에서 사용하는걸 추천
 + request : html정보를 가져올 때 사용
 + iconv-lite : 인코딩할 때 사용
 
+![image](./README/image.png)
+
